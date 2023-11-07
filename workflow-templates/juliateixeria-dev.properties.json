@@ -1,0 +1,7 @@
+{
+  "categories": ["Go"],
+  "description": "Julia Teixeira CI starter workflow.",
+  "filePatterns": ["package.json$", "^Dockerfile", ".*\\.md$"],
+  "iconName": "example-icon",
+  "name": "Julia Teixeira Workflow"
+}
